@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DigitalTimerApp-ReactJS/static/css/main.5c03692d.chunk.css",
+    "main.js": "/DigitalTimerApp-ReactJS/static/js/main.00f4da3f.chunk.js",
+    "main.js.map": "/DigitalTimerApp-ReactJS/static/js/main.00f4da3f.chunk.js.map",
+    "runtime-main.js": "/DigitalTimerApp-ReactJS/static/js/runtime-main.d1bda628.js",
+    "runtime-main.js.map": "/DigitalTimerApp-ReactJS/static/js/runtime-main.d1bda628.js.map",
+    "static/js/2.421d1887.chunk.js": "/DigitalTimerApp-ReactJS/static/js/2.421d1887.chunk.js",
+    "static/js/2.421d1887.chunk.js.map": "/DigitalTimerApp-ReactJS/static/js/2.421d1887.chunk.js.map",
+    "index.html": "/DigitalTimerApp-ReactJS/index.html",
+    "static/css/main.5c03692d.chunk.css.map": "/DigitalTimerApp-ReactJS/static/css/main.5c03692d.chunk.css.map",
+    "static/js/2.421d1887.chunk.js.LICENSE.txt": "/DigitalTimerApp-ReactJS/static/js/2.421d1887.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1bda628.js",
+    "static/js/2.421d1887.chunk.js",
+    "static/css/main.5c03692d.chunk.css",
+    "static/js/main.00f4da3f.chunk.js"
+  ]
+}
